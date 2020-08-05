@@ -187,3 +187,4 @@ This project is licensed under MIT.
 Feel free to contribute to this project, a helping hand is always appreciated.
 
 [Join our discord server](https://discord.gg/etJNHCQ).
+[![Run on Repl.it](https://repl.it/badge/github/kyb3r/dhooks)](https://repl.it/github/kyb3r/dhooks)
